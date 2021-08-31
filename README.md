@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+以上程式碼需搭配[鐵人賽文章]()
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+目錄：
 
-## Available Scripts
+Day1: [30 天學會 React，其實一點都不難!]()
 
-In the project directory, you can run:
+Day2: [基礎安裝 + 加碼:nvm]()
 
-### `yarn start`
+Day3: [Hello World! + 基礎佈局]()
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Day4: [Jsx + LifeCycle]()
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Day5: [State vs Props]()
 
-### `yarn test`
+Day6: [Class vs Function]()
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Day7: [Children]()
 
-### `yarn build`
+Day8: [實作 - TodoList]()
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Day9: [實作 - 點擊加一]()
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Day10: [React-Router]()
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Day11: [Redux 流程]()
 
-### `yarn eject`
+Day12: [Redux 程式碼解析 + 改寫 TodoList]()
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Day13: [React-Redux]()
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Day14: [combineReducer]()
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Day15: [PropsTypes]()
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Day16: [業界如何管理 Redux?]()
 
-## Learn More
+Day17: [兩款追蹤 Redux 的工具一次交給你]()
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Day18: [為什麼需要 Hooks?]()
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Day19: [useState]()
 
-### Code Splitting
+Day20: [useEffect]()
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Day21: [useReducer]()
 
-### Analyzing the Bundle Size
+Day22: [useCallback + useMemo]()
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Day23: [useDispatch]()
 
-### Making a Progressive Web App
+Day24: [useSelector]()
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Day25: [react-bootstrap]()
 
-### Advanced Configuration
+Day26: [react-table]()
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Day27: [react-intl]()
 
-### Deployment
+Day28: [react-chartjs-2]()
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Day29: [其他好用套件推薦]()
 
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Day30: [結語]()
